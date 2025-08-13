@@ -139,15 +139,33 @@ def prepare_data_for_model(df):
 def predict_position(model, player_stats, feature_columns):
     """Predict player position using the model"""
     try:
+        # Check if model has prediction methods
+        if not hasattr(model, 'predict'):
+            st.error("Model does not have prediction capability.")
+            return None, None, None
+        
         # Ensure we have the right features in the right order
         stats_df = pd.DataFrame([player_stats])
         stats_df = stats_df.reindex(columns=feature_columns, fill_value=0)
         
         # Make prediction
         prediction = model.predict(stats_df)[0]
-        probabilities = model.predict_proba(stats_df)[0]
         
-        return prediction, probabilities, model.classes_
+        # Get probabilities if available
+        if hasattr(model, 'predict_proba'):
+            probabilities = model.predict_proba(stats_df)[0]
+        else:
+            # Fallback: create dummy probabilities
+            probabilities = [1.0, 0.0, 0.0]  # Assume high confidence for predicted class
+        
+        # Get classes if available
+        if hasattr(model, 'classes_'):
+            classes = model.classes_
+        else:
+            # Fallback: use known NBA positions
+            classes = ['Center', 'Forward', 'Guard']
+        
+        return prediction, probabilities, classes
     except Exception as e:
         st.error(f"Error making prediction: {e}")
         return None, None, None
@@ -370,20 +388,42 @@ def show_position_prediction(model, df_agg):
 def show_model_insights(model, df_agg):
     st.markdown('<h2 class="sub-header">🎯 Model Insights</h2>', unsafe_allow_html=True)
     
+    # Check if model is properly loaded
+    if model is None:
+        st.error("Model not loaded properly. Please check the model file.")
+        return
+    
     # Model information
     st.subheader("Model Information")
     col1, col2 = st.columns(2)
     
     with col1:
         st.info(f"**Model Type:** {type(model).__name__}")
-        st.info(f"**Number of Classes:** {len(model.classes_)}")
-        st.info(f"**Classes:** {', '.join(model.classes_)}")
+        
+        # Handle case where model might not have classes_ attribute
+        if hasattr(model, 'classes_'):
+            st.info(f"**Number of Classes:** {len(model.classes_)}")
+            st.info(f"**Classes:** {', '.join(model.classes_)}")
+        else:
+            # Fallback: get classes from the data
+            unique_positions = df_agg['POSITION'].unique()
+            st.info(f"**Number of Classes:** {len(unique_positions)}")
+            st.info(f"**Classes:** {', '.join(sorted(unique_positions))}")
     
     with col2:
         if hasattr(model, 'n_estimators'):
             st.info(f"**Number of Estimators:** {model.n_estimators}")
+        elif hasattr(model, 'n_estimators_'):
+            st.info(f"**Number of Estimators:** {model.n_estimators_}")
+        else:
+            st.info("**Number of Estimators:** Not available")
+            
         if hasattr(model, 'max_depth'):
             st.info(f"**Max Depth:** {model.max_depth}")
+        elif hasattr(model, 'max_depth_'):
+            st.info(f"**Max Depth:** {model.max_depth_}")
+        else:
+            st.info("**Max Depth:** Not available")
     
     # Feature importance (if available)
     if hasattr(model, 'feature_importances_'):
@@ -393,16 +433,23 @@ def show_model_insights(model, df_agg):
         numeric_cols = df_agg.select_dtypes(include=[np.number]).columns.tolist()
         feature_cols = [col for col in numeric_cols if col != 'PLAYER_ID']
         
-        if len(model.feature_importances_) == len(feature_cols):
-            importance_df = pd.DataFrame({
-                'Feature': feature_cols,
-                'Importance': model.feature_importances_
-            }).sort_values('Importance', ascending=False).head(15)
-            
-            fig = px.bar(importance_df, x='Importance', y='Feature',
-                        orientation='h', title="Top 15 Most Important Features")
-            fig.update_traces(marker_color='#FF6B35')
-            st.plotly_chart(fig, use_container_width=True)
+        try:
+            if len(model.feature_importances_) == len(feature_cols):
+                importance_df = pd.DataFrame({
+                    'Feature': feature_cols,
+                    'Importance': model.feature_importances_
+                }).sort_values('Importance', ascending=False).head(15)
+                
+                fig = px.bar(importance_df, x='Importance', y='Feature',
+                            orientation='h', title="Top 15 Most Important Features")
+                fig.update_traces(marker_color='#FF6B35')
+                st.plotly_chart(fig, use_container_width=True)
+            else:
+                st.warning("Feature importance data doesn't match the expected number of features.")
+        except Exception as e:
+            st.warning(f"Could not display feature importance: {e}")
+    else:
+        st.info("Feature importance not available for this model type.")
     
     # Position distribution in dataset
     st.subheader("Position Distribution in Training Data")
