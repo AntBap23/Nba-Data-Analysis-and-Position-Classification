@@ -1,0 +1,573 @@
+PLAYER_ID,PLAYER_NAME,POSITION,HEIGHT,WEIGHT,BIRTHDATE,TEAM
+1630173,Precious Achiuwa,Forward,6-8,243,1999-09-19T00:00:00,Knicks
+203500,Steven Adams,Center,6-11,265,1993-07-20T00:00:00,Rockets
+1628389,Bam Adebayo,Center-Forward,6-9,255,1997-07-18T00:00:00,Heat
+1630534,Ochai Agbaji,Guard,6-5,215,2000-04-20T00:00:00,Raptors
+1630583,Santi Aldama,Forward-Center,7-0,215,2001-01-10T00:00:00,Grizzlies
+1641725,Trey Alexander,Guard,6-4,185,2003-05-02T00:00:00,Pelicans
+1629638,Nickeil Alexander-Walker,Guard,6-5,205,1998-09-02T00:00:00,Hawks
+1628960,Grayson Allen,Guard,6-4,198,1995-10-08T00:00:00,Suns
+1628386,Jarrett Allen,Center,6-9,243,1998-04-21T00:00:00,Cavaliers
+1630631,Jose Alvarado,Guard,6-0,179,1998-04-12T00:00:00,Pelicans
+203937,Kyle Anderson,Forward-Guard,6-9,230,1993-09-20T00:00:00,Jazz
+203507,Giannis Antetokounmpo,Forward,6-11,243,1994-12-06T00:00:00,Bucks
+1630175,Cole Anthony,Guard,6-2,185,2000-05-15T00:00:00,Bucks
+1628384,OG Anunoby,Forward-Guard,6-7,240,1997-07-17T00:00:00,Knicks
+1642379,Taran Armstrong,Guard,6-5,190,2002-01-15T00:00:00,Warriors
+1630166,Deni Avdija,Forward,6-9,240,2001-01-03T00:00:00,Trail Blazers
+1629028,Deandre Ayton,Center,7-0,252,1998-07-23T00:00:00,Lakers
+1630542,Marcus Bagley,Forward,6-6,217,2001-10-23T00:00:00,
+1628963,Marvin Bagley III,Forward,6-10,235,1999-03-14T00:00:00,Wizards
+1631116,Patrick Baldwin Jr.,Forward,6-9,220,2002-11-18T00:00:00,Clippers
+1630163,LaMelo Ball,Guard,6-7,180,2001-08-22T00:00:00,Hornets
+1628366,Lonzo Ball,Guard,6-6,190,1997-10-27T00:00:00,Cavaliers
+1628964,Mo Bamba,Center,7-0,231,1998-05-12T00:00:00,
+1631094,Paolo Banchero,Forward,6-10,250,2002-11-12T00:00:00,Magic
+1630217,Desmond Bane,Guard,6-5,215,1998-06-25T00:00:00,Magic
+1630625,Dalano Banton,Forward,6-8,203,1999-11-07T00:00:00,Trail Blazers
+1631230,Dominick Barlow,Forward,6-8,215,2003-05-26T00:00:00,76ers
+203084,Harrison Barnes,Forward,6-8,225,1992-05-30T00:00:00,Spurs
+1630567,Scottie Barnes,Forward-Guard,6-7,237,2001-08-01T00:00:00,Raptors
+1629628,RJ Barrett,Forward-Guard,6-6,214,2000-06-14T00:00:00,Raptors
+1629646,Charles Bassey,Center-Forward,6-10,230,2000-10-28T00:00:00,Spurs
+1641734,Emoni Bates,Forward,6-8,202,2004-01-28T00:00:00,Cavaliers
+1642419,Jamison Battle,Forward,6-7,220,2001-05-10T00:00:00,Raptors
+201587,Nicolas Batum,Guard-Forward,6-8,230,1988-12-14T00:00:00,Clippers
+1641878,Damion Baugh,Guard,6-4,194,2000-08-03T00:00:00,Hornets
+203078,Bradley Beal,Guard,6-4,207,1993-06-28T00:00:00,Clippers
+1627736,Malik Beasley,Guard,6-4,187,1996-11-26T00:00:00,Pistons
+1630699,MarJon Beauchamp,Forward,6-7,199,2000-10-12T00:00:00,Knicks
+1641736,Reece Beekman,Guard,6-3,190,2001-10-08T00:00:00,Nets
+1630180,Saddiq Bey,Guard-Forward,6-7,215,1999-04-09T00:00:00,Pelicans
+1629048,Goga Bitadze,Center-Forward,6-10,250,1999-07-20T00:00:00,Magic
+202687,Bismack Biyombo,Center,6-8,255,1992-08-28T00:00:00,Spurs
+1641710,Anthony Black,Guard,6-7,200,2004-01-20T00:00:00,Magic
+203992,Bogdan Bogdanović,Guard,6-5,225,1992-08-18T00:00:00,Clippers
+1629626,Bol Bol,Center-Forward,7-3,220,1999-11-16T00:00:00,Suns
+1641737,Adem Bona,Forward,6-10,235,2003-03-28T00:00:00,76ers
+1626164,Devin Booker,Guard,6-6,206,1996-10-30T00:00:00,Suns
+1630527,Brandon Boston,Guard,6-6,188,2001-11-28T00:00:00,Pelicans
+1628449,Chris Boucher,Forward,6-9,200,1993-01-11T00:00:00,Raptors
+1631123,Jamaree Bouyea,Guard,6-2,180,1999-06-27T00:00:00,Bucks
+1628396,Tony Bradley,Center-Forward,6-11,248,1998-01-08T00:00:00,Pacers
+1631103,Malaki Branham,Forward,6-4,180,2003-05-12T00:00:00,Wizards
+1631128,Christian Braun,Guard,6-6,220,2001-04-17T00:00:00,Nuggets
+1641779,Jalen Bridges,Forward,6-8,225,2001-05-14T00:00:00,Suns
+1628969,Mikal Bridges,Guard-Forward,6-6,209,1996-08-30T00:00:00,Knicks
+1628970,Miles Bridges,Forward,6-7,225,1998-03-21T00:00:00,Hornets
+1629052,Oshae Brissett,Forward-Guard,6-7,210,1998-06-20T00:00:00,
+1627763,Malcolm Brogdon,Guard,6-4,229,1992-12-11T00:00:00,Wizards
+1628415,Dillon Brooks,Guard-Forward,6-6,225,1996-01-22T00:00:00,Suns
+1631232,Keion Brooks Jr.,Forward,6-7,210,2000-08-07T00:00:00,Pelicans
+1628971,Bruce Brown,Guard-Forward,6-4,202,1996-08-15T00:00:00,Nuggets
+1627759,Jaylen Brown,Guard-Forward,6-6,223,1996-10-24T00:00:00,Celtics
+1641738,Kobe Brown,Forward,6-7,250,2000-01-01T00:00:00,Clippers
+1629650,Moses Brown,Center,7-2,258,1999-10-13T00:00:00,
+1628973,Jalen Brunson,Guard,6-2,190,1996-08-31T00:00:00,Knicks
+1628418,Thomas Bryant,Center-Forward,6-10,248,1997-07-31T00:00:00,Pacers
+1641723,Kobe Bufkin,Guard,6-4,195,2003-09-21T00:00:00,Hawks
+202692,Alec Burks,Guard,6-5,214,1991-07-20T00:00:00,Heat
+1630215,Jared Butler,Guard,6-3,193,2000-08-25T00:00:00,Suns
+202710,Jimmy Butler III,Forward,6-7,230,1989-09-14T00:00:00,Warriors
+1641824,Matas Buzelis,Forward,6-10,209,2004-10-13T00:00:00,Bulls
+1631288,Jamal Cain,Forward,6-6,191,1999-03-20T00:00:00,Magic
+203484,Kentavious Caldwell-Pope,Guard,6-5,204,1993-02-18T00:00:00,Grizzlies
+1641739,Toumani Camara,Forward,6-7,229,2000-05-08T00:00:00,Trail Blazers
+203991,Clint Capela,Center,6-10,256,1994-05-18T00:00:00,Rockets
+1642382,Branden Carlson,Center,7-0,220,1999-06-14T00:00:00,Thunder
+1642267,Bub Carrington,Guard,6-4,190,2005-07-21T00:00:00,Wizards
+1642269,Devin Carter,Guard,6-2,195,2002-03-18T00:00:00,Kings
+1628975,Jevon Carter,Guard,6-1,200,1995-09-14T00:00:00,Bulls
+1628976,Wendell Carter Jr.,Center-Forward,6-10,270,1999-04-16T00:00:00,Magic
+1630618,D.J. Carton,Guard,6-3,200,2000-08-05T00:00:00,
+1627936,Alex Caruso,Guard,6-5,186,1994-02-28T00:00:00,Thunder
+1642264,Stephon Castle,Guard,6-6,215,2004-11-01T00:00:00,Spurs
+1630658,Colin Castleton,Center,6-10,250,2000-05-25T00:00:00,Raptors
+1630577,Julian Champagnie,Forward,6-7,217,2001-06-29T00:00:00,Spurs
+1630551,Justin Champagnie,Guard-Forward,6-6,206,2001-06-29T00:00:00,Wizards
+1642279,Ulrich Chomche,Center,6-11,235,2005-12-30T00:00:00,Raptors
+1642353,Cam Christie,Guard,6-6,190,2005-07-24T00:00:00,Clippers
+1631108,Max Christie,Guard,6-5,190,2003-02-10T00:00:00,Mavericks
+1630528,Josh Christopher,Guard,6-4,215,2001-12-08T00:00:00,Heat
+1631321,Sidy Cissoko,Guard,6-6,200,2004-04-02T00:00:00,Trail Blazers
+1641740,Jaylen Clark,Guard,6-4,205,2001-10-13T00:00:00,Timberwolves
+1629634,Brandon Clarke,Forward,6-8,215,1996-09-19T00:00:00,Grizzlies
+203903,Jordan Clarkson,Guard,6-3,194,1992-06-07T00:00:00,Knicks
+1629651,Nic Claxton,Center,6-11,215,1999-04-17T00:00:00,Nets
+1642270,Donovan Clingan,Center,7-2,280,2004-02-23T00:00:00,Trail Blazers
+1641730,Noah Clowney,Forward-Center,6-9,210,2004-07-14T00:00:00,Nets
+1629599,Amir Coffey,Guard-Forward,6-7,210,1997-06-17T00:00:00,Clippers
+1642268,Isaiah Collier,Guard,6-3,210,2004-10-08T00:00:00,Jazz
+1628381,John Collins,Forward-Center,6-9,226,1997-09-23T00:00:00,Clippers
+1641879,Yuri Collins,Guard,6-0,190,2001-03-07T00:00:00,
+1628380,Zach Collins,Forward-Center,6-11,250,1997-11-19T00:00:00,Bulls
+201144,Mike Conley,Guard,6-0,175,1987-10-11T00:00:00,Timberwolves
+1626192,Pat Connaughton,Guard,6-5,209,1993-01-06T00:00:00,Hornets
+1641731,Bilal Coulibaly,Guard,6-8,195,2004-07-26T00:00:00,Wizards
+1641741,Ricky Council IV,Guard,6-6,207,2001-08-03T00:00:00,76ers
+1628470,Torrey Craig,Forward,6-5,221,1990-12-19T00:00:00,Celtics
+1642384,Isaiah Crawford,Forward,6-6,220,2001-11-01T00:00:00,Rockets
+203109,Jae Crowder,Forward,6-6,235,1990-07-06T00:00:00,Kings
+1630595,Cade Cunningham,Guard,6-6,220,2001-09-25T00:00:00,Pistons
+203552,Seth Curry,Guard,6-1,185,1990-08-23T00:00:00,Hornets
+201939,Stephen Curry,Guard,6-2,185,1988-03-14T00:00:00,Warriors
+1642359,Pacôme Dadiet,Forward,6-8,210,2005-07-27T00:00:00,Knicks
+1630700,Dyson Daniels,Guard,6-7,199,2003-03-17T00:00:00,Hawks
+1642368,N'Faly Dante,Center,6-11,230,2001-10-19T00:00:00,Rockets
+203076,Anthony Davis,Forward-Center,6-10,253,1993-03-11T00:00:00,Mavericks
+1631098,Johnny Davis,Guard,6-4,195,2002-02-27T00:00:00,
+1631120,JD Davison,Guard,6-1,195,2002-10-03T00:00:00,Rockets
+201942,DeMar DeRozan,Guard-Forward,6-6,220,1989-08-07T00:00:00,Kings
+1642484,RayJ Dennis,Guard,6-2,180,2001-03-30T00:00:00,Pacers
+1628978,Donte DiVincenzo,Guard,6-4,203,1997-01-31T00:00:00,Timberwolves
+1631217,Moussa Diabaté,Forward,6-9,210,2002-01-21T00:00:00,Hornets
+1641711,Gradey Dick,Guard-Forward,6-6,200,2003-11-20T00:00:00,Raptors
+1631172,Ousmane Dieng,Forward,6-9,185,2003-05-21T00:00:00,Thunder
+1642265,Rob Dillingham,Guard,6-3,175,2005-01-04T00:00:00,Timberwolves
+203915,Spencer Dinwiddie,Guard,6-5,215,1993-04-06T00:00:00,Hornets
+1629029,Luka Dončić,Forward-Guard,6-6,230,1999-02-28T00:00:00,Lakers
+1629652,Luguentz Dort,Guard,6-4,220,1999-04-19T00:00:00,Thunder
+1630245,Ayo Dosunmu,Guard,6-5,200,2000-01-17T00:00:00,Bulls
+1630288,Jeff Dowtin Jr.,Guard,6-3,177,1997-05-10T00:00:00,76ers
+1628408,PJ Dozier,Guard-Forward,6-6,205,1996-10-25T00:00:00,
+203083,Andre Drummond,Center,6-11,279,1993-08-10T00:00:00,76ers
+1630537,Chris Duarte,Guard,6-5,190,1997-06-13T00:00:00,
+1642505,Alex Ducas,Guard,6-7,220,2000-12-11T00:00:00,Thunder
+1630561,David Duke Jr.,Guard,6-4,204,1999-10-13T00:00:00,Spurs
+1627739,Kris Dunn,Guard,6-3,205,1994-03-18T00:00:00,Clippers
+1642346,Ryan Dunn,Forward,6-8,216,2003-01-07T00:00:00,Suns
+201142,Kevin Durant,Forward,6-11,240,1988-09-29T00:00:00,Rockets
+1631105,Jalen Duren,Center,6-10,250,2003-11-18T00:00:00,Pistons
+1631106,Tari Eason,Forward,6-8,215,2001-05-10T00:00:00,Rockets
+1641744,Zach Edey,Center,7-4,305,2002-05-14T00:00:00,Grizzlies
+1630162,Anthony Edwards,Guard,6-4,225,2001-08-05T00:00:00,Timberwolves
+1642399,Jesse Edwards,Center,7-0,236,2000-03-18T00:00:00,Timberwolves
+1642348,Justin Edwards,Forward,6-7,203,2003-12-16T00:00:00,76ers
+1630556,Kessler Edwards,Forward,6-7,203,2000-08-09T00:00:00,Mavericks
+1631165,Keon Ellis,Guard,6-4,175,2000-01-08T00:00:00,Kings
+203954,Joel Embiid,Center-Forward,7-0,280,1994-03-16T00:00:00,76ers
+1630623,Tyson Etienne,Guard,6-2,200,1999-09-17T00:00:00,Nets
+1629234,Drew Eubanks,Forward-Center,6-10,245,1997-02-01T00:00:00,Kings
+1641787,Tosan Evbuomwan,Forward,6-7,217,2001-02-16T00:00:00,Nets
+203957,Danté Exum,Guard,6-5,214,1995-07-13T00:00:00,Mavericks
+1628981,Bruno Fernando,Forward-Center,6-9,240,1998-08-15T00:00:00,
+1642271,Kyle Filipowski,Center,6-11,250,2003-11-07T00:00:00,Jazz
+1627827,Dorian Finney-Smith,Forward,6-7,220,1993-05-04T00:00:00,Rockets
+1641745,Adam Flagler,Guard,6-3,180,1999-12-01T00:00:00,Thunder
+1642280,Trentyn Flowers,Forward,6-9,185,2005-03-08T00:00:00,Clippers
+1630201,Malachi Flynn,Guard,6-1,185,1998-05-09T00:00:00,
+1631323,Simone Fontecchio,Forward,6-7,209,1995-12-09T00:00:00,Heat
+1628368,De'Aaron Fox,Guard,6-3,185,1997-12-20T00:00:00,Spurs
+1642402,Enrique Freeman,Forward,6-7,220,2000-07-29T00:00:00,Timberwolves
+1628365,Markelle Fultz,Guard,6-4,209,1998-05-29T00:00:00,Kings
+1642277,Johnny Furphy,Guard,6-9,200,2004-12-08T00:00:00,Pacers
+1629655,Daniel Gafford,Forward-Center,6-10,265,1998-10-01T00:00:00,Mavericks
+1629636,Darius Garland,Guard,6-1,192,2000-01-26T00:00:00,Cavaliers
+1630585,Marcus Garrett,Guard,6-5,205,1998-11-09T00:00:00,
+1630568,Luka Garza,Center,6-10,243,1998-12-27T00:00:00,Celtics
+1641718,Keyonte George,Guard,6-4,185,2003-11-08T00:00:00,Jazz
+1642273,Kyshawn George,Forward,6-8,200,2003-12-12T00:00:00,Wizards
+202331,Paul George,Forward,6-8,220,1990-05-02T00:00:00,76ers
+201959,Taj Gibson,Forward,6-9,232,1985-06-24T00:00:00,Hornets
+1630581,Josh Giddey,Guard,6-8,216,2002-10-10T00:00:00,Bulls
+1628983,Shai Gilgeous-Alexander,Guard,6-6,195,1998-07-12T00:00:00,Thunder
+1630264,Anthony Gill,Forward,6-8,230,1992-10-17T00:00:00,Wizards
+1631221,Collin Gillespie,Guard,6-1,195,1999-06-25T00:00:00,Suns
+203497,Rudy Gobert,Center,7-1,258,1992-06-26T00:00:00,Timberwolves
+1630692,Jordan Goodwin,Guard,6-5,215,1998-10-23T00:00:00,Suns
+203932,Aaron Gordon,Forward,6-8,235,1995-09-16T00:00:00,Nuggets
+201569,Eric Gordon,Guard,6-3,215,1988-12-25T00:00:00,76ers
+1641789,Jazian Gortman,Guard,6-2,184,2003-03-14T00:00:00,
+203924,Jerami Grant,Forward,6-7,210,1994-03-12T00:00:00,Trail Blazers
+1631260,AJ Green,Guard,6-4,190,1999-09-27T00:00:00,Bucks
+203110,Draymond Green,Forward,6-6,230,1990-03-04T00:00:00,Warriors
+1630224,Jalen Green,Guard,6-4,186,2002-02-09T00:00:00,Suns
+1629750,Javonte Green,Guard,6-5,205,1993-07-23T00:00:00,Cavaliers
+201145,Jeff Green,Forward,6-8,235,1986-08-28T00:00:00,Rockets
+1630182,Josh Green,Guard,6-5,200,2000-11-16T00:00:00,Hornets
+1629656,Quentin Grimes,Guard,6-4,210,2000-05-08T00:00:00,76ers
+1631243,Mouhamed Gueye,Forward,6-10,210,2002-11-09T00:00:00,Hawks
+1629060,Rui Hachimura,Forward,6-8,230,1998-02-08T00:00:00,Lakers
+1630169,Tyrese Haliburton,Guard,6-5,185,2000-02-29T00:00:00,Pacers
+1641790,PJ Hall,Center,6-10,245,2002-02-21T00:00:00,Grizzlies
+203501,Tim Hardaway Jr.,Guard-Forward,6-5,205,1992-03-16T00:00:00,Nuggets
+201935,James Harden,Guard,6-5,220,1989-08-26T00:00:00,Clippers
+1630702,Jaden Hardy,Guard,6-3,198,2002-07-05T00:00:00,Mavericks
+1641989,Elijah Harkless,Guard,6-3,195,2000-02-03T00:00:00,Jazz
+1631199,Ron Harper Jr.,Guard-Forward,6-4,233,2000-04-12T00:00:00,Pistons
+203914,Gary Harris,Guard,6-4,210,1994-09-14T00:00:00,Bucks
+202699,Tobias Harris,Forward,6-8,226,1992-07-15T00:00:00,Pistons
+1628404,Josh Hart,Guard,6-4,215,1995-03-06T00:00:00,Knicks
+1628392,Isaiah Hartenstein,Center-Forward,7-0,250,1998-05-05T00:00:00,Thunder
+1630573,Sam Hauser,Forward,6-7,217,1997-12-08T00:00:00,Celtics
+1641722,Jordan Hawkins,Guard,6-5,190,2002-04-29T00:00:00,Pelicans
+1629637,Jaxson Hayes,Center-Forward,7-0,220,2000-05-23T00:00:00,Lakers
+1630165,Killian Hayes,Guard,6-5,195,2001-07-27T00:00:00,
+1630703,Scoot Henderson,Guard,6-3,206,2004-02-03T00:00:00,Trail Blazers
+1641707,Taylor Hendricks,Forward,6-9,215,2003-11-22T00:00:00,Jazz
+1629639,Tyler Herro,Guard,6-5,195,2000-01-20T00:00:00,Heat
+1627741,Buddy Hield,Guard,6-4,220,1992-12-17T00:00:00,Warriors
+1629312,Haywood Highsmith,Forward,6-5,220,1996-12-09T00:00:00,Heat
+1628988,Aaron Holiday,Guard,6-0,185,1996-09-30T00:00:00,Rockets
+201950,Jrue Holiday,Guard,6-4,205,1990-06-12T00:00:00,Trail Blazers
+1641842,Ronald Holland II,Forward,6-8,206,2005-07-07T00:00:00,Pistons
+1626158,Richaun Holmes,Forward,6-9,235,1993-10-15T00:00:00,Wizards
+1641747,DaRon Holmes II,Forward,6-10,225,2002-08-15T00:00:00,Nuggets
+1631096,Chet Holmgren,Center-Forward,7-1,208,2002-05-01T00:00:00,Thunder
+1641720,Jalen Hood-Schifino,Guard,6-5,210,2003-06-19T00:00:00,76ers
+201143,Al Horford,Center-Forward,6-9,240,1986-06-03T00:00:00,Celtics
+1629659,Talen Horton-Tucker,Guard,6-4,234,2000-11-25T00:00:00,Bulls
+1631216,Caleb Houstan,Guard,6-8,205,2003-01-09T00:00:00,Magic
+1641724,Jett Howard,Guard,6-6,215,2003-09-14T00:00:00,Magic
+1628989,Kevin Huerter,Guard-Forward,6-7,198,1998-08-27T00:00:00,Bulls
+1630643,Jay Huff,Center,7-1,240,1997-08-25T00:00:00,Pacers
+1630574,Ariel Hukporti,Center,6-11,246,2002-04-12T00:00:00,Knicks
+1629631,De'Andre Hunter,Forward-Guard,6-8,221,1997-12-02T00:00:00,Cavaliers
+1630538,Bones Hyland,Guard,6-2,169,2000-09-14T00:00:00,Timberwolves
+1642345,Oso Ighodaro,Forward,7-0,235,2002-07-14T00:00:00,Suns
+204060,Joe Ingles,Forward-Guard,6-8,220,1987-10-02T00:00:00,Timberwolves
+1627742,Brandon Ingram,Forward,6-8,190,1997-09-02T00:00:00,Raptors
+1631127,Harrison Ingram,Forward,6-5,230,2002-11-27T00:00:00,Spurs
+202681,Kyrie Irving,Guard,6-2,195,1992-03-23T00:00:00,Mavericks
+1628371,Jonathan Isaac,Forward,6-10,230,1997-10-03T00:00:00,Magic
+1631093,Jaden Ivey,Guard,6-4,195,2002-02-13T00:00:00,Pistons
+1641713,GG Jackson,Forward,6-9,210,2004-12-17T00:00:00,Grizzlies
+1630543,Isaiah Jackson,Forward,6-9,205,2002-01-10T00:00:00,Pacers
+1631245,Quenton Jackson,Guard,6-5,173,1998-09-15T00:00:00,Pacers
+202704,Reggie Jackson,Guard,6-2,208,1990-04-16T00:00:00,
+1641748,Andre Jackson Jr.,Guard,6-6,209,2001-11-13T00:00:00,Bucks
+1628991,Jaren Jackson Jr.,Forward-Center,6-10,242,1999-09-15T00:00:00,Grizzlies
+1631218,Trayce Jackson-Davis,Forward,6-9,245,2000-02-22T00:00:00,Warriors
+1642355,Bronny James,Guard,6-3,210,2004-10-06T00:00:00,Lakers
+2544,LeBron James,Forward,6-9,250,1984-12-30T00:00:00,Lakers
+1631170,Jaime Jaquez Jr.,Guard,6-6,225,2001-02-18T00:00:00,Heat
+1629610,DaQuan Jeffries,Guard-Forward,6-5,222,1997-08-30T00:00:00,Hornets
+1641998,Trey Jemison III,Center,6-11,270,1999-11-28T00:00:00,Lakers
+1642450,Daniss Jenkins,Guard,6-3,165,2001-08-17T00:00:00,Pistons
+1629660,Ty Jerome,Guard-Forward,6-5,195,1997-07-08T00:00:00,Grizzlies
+1630198,Isaiah Joe,Guard,6-3,165,1999-07-02T00:00:00,Thunder
+1642358,AJ Johnson,Guard,6-5,160,2004-12-01T00:00:00,Wizards
+1629661,Cameron Johnson,Forward,6-8,210,1996-03-03T00:00:00,Nuggets
+1630552,Jalen Johnson,Forward,6-8,219,2001-12-18T00:00:00,Hawks
+201949,James Johnson,Forward,6-7,240,1987-02-20T00:00:00,Pacers
+1629640,Keldon Johnson,Forward-Guard,6-5,220,1999-10-11T00:00:00,Spurs
+1630553,Keon Johnson,Guard,6-5,185,2002-03-10T00:00:00,Nets
+1642352,Keshad Johnson,Forward,6-7,225,2001-06-23T00:00:00,Heat
+203999,Nikola Jokić,Center,6-11,284,1995-02-19T00:00:00,Nuggets
+1641732,Colby Jones,Guard,6-6,207,2002-05-28T00:00:00,Pistons
+1641794,Dillon Jones,Forward,6-5,235,2001-10-29T00:00:00,Wizards
+1630529,Herbert Jones,Forward,6-7,206,1998-10-06T00:00:00,Pelicans
+1642403,Isaac Jones,Forward,6-9,245,2000-07-11T00:00:00,Kings
+1630539,Kai Jones,Center-Forward,6-11,221,2001-01-19T00:00:00,Mavericks
+1630222,Mason Jones,Guard,6-4,200,1998-07-21T00:00:00,Kings
+1642461,Spencer Jones,Forward,6-7,225,2001-06-14T00:00:00,Nuggets
+1630200,Tre Jones,Guard,6-1,185,2000-01-08T00:00:00,Bulls
+1626145,Tyus Jones,Guard,6-1,196,1996-05-10T00:00:00,Magic
+1627884,Derrick Jones Jr.,Forward,6-6,210,1997-02-15T00:00:00,Clippers
+201599,DeAndre Jordan,Center,6-11,265,1988-07-21T00:00:00,Nuggets
+202709,Cory Joseph,Guard,6-2,200,1991-08-20T00:00:00,Magic
+1631107,Nikola Jović,Forward,6-10,205,2003-06-09T00:00:00,Heat
+1630548,Johnny Juzang,Guard,6-5,226,2001-03-17T00:00:00,Jazz
+1642530,Yuki Kawamura,Guard,5-8,159,2001-05-02T00:00:00,Bulls
+1630283,Kylor Kelley,Center,7-0,230,1997-08-26T00:00:00,
+1628379,Luke Kennard,Guard,6-5,206,1996-06-24T00:00:00,Hawks
+1631117,Walker Kessler,Center,7-0,245,2001-07-26T00:00:00,Jazz
+1630296,Braxton Key,Forward,6-8,225,1997-02-14T00:00:00,Warriors
+1630557,Corey Kispert,Forward,6-6,224,1999-03-03T00:00:00,Wizards
+1628467,Maxi Kleber,Forward,6-10,240,1992-01-29T00:00:00,Lakers
+1641752,Bobi Klintman,Forward,6-9,225,2003-03-06T00:00:00,Pistons
+1642261,Dalton Knecht,Forward,6-6,215,2001-04-19T00:00:00,Lakers
+1628995,Kevin Knox II,Forward,6-8,215,1999-08-11T00:00:00,Warriors
+1642278,Tyler Kolek,Guard,6-3,195,2001-03-27T00:00:00,Knicks
+1631132,Christian Koloko,Center,7-0,225,2000-06-20T00:00:00,Lakers
+1629723,John Konchar,Guard,6-5,210,1996-03-22T00:00:00,Grizzlies
+1628436,Luke Kornet,Center-Forward,7-1,250,1995-07-15T00:00:00,Spurs
+1630249,Vít Krejčí,Guard,6-8,195,2000-06-19T00:00:00,Hawks
+1630228,Jonathan Kuminga,Forward,6-7,225,2002-10-06T00:00:00,Warriors
+1628398,Kyle Kuzma,Forward,6-9,221,1995-07-24T00:00:00,Bucks
+1631222,Jake LaRavia,Forward,6-7,235,2001-11-03T00:00:00,Lakers
+203897,Zach LaVine,Guard,6-5,200,1995-03-10T00:00:00,Kings
+1627746,Skal Labissiere,Forward-Center,6-10,235,1996-03-18T00:00:00,
+1629111,Jock Landale,Center,6-11,255,1995-10-25T00:00:00,Grizzlies
+1641796,Pelle Larsson,Guard,6-5,215,2001-02-23T00:00:00,Heat
+1630639,A.J. Lawson,Guard,6-6,179,2000-07-15T00:00:00,Raptors
+1627747,Caris LeVert,Guard,6-6,205,1994-08-25T00:00:00,Pistons
+1627814,Damion Lee,Guard-Forward,6-6,210,1992-10-21T00:00:00,Suns
+203458,Alex Len,Center,7-0,250,1993-06-16T00:00:00,Lakers
+202695,Kawhi Leonard,Forward,6-7,225,1991-06-29T00:00:00,Clippers
+1642502,Malevy Leons,Forward,6-9,210,1999-09-23T00:00:00,Thunder
+1641721,Maxwell Lewis,Forward,6-7,215,2002-07-27T00:00:00,Nets
+1630604,E.J. Liddell,Forward,6-6,240,2000-12-18T00:00:00,Bulls
+203081,Damian Lillard,Guard,6-2,195,1990-07-15T00:00:00,Trail Blazers
+1641726,Dereck Lively II,Center,7-1,230,2004-02-12T00:00:00,Mavericks
+1641753,Chris Livingston,Forward,6-6,220,2003-10-15T00:00:00,Bucks
+1626172,Kevon Looney,Forward,6-9,222,1996-02-06T00:00:00,Pelicans
+201572,Brook Lopez,Center,7-1,282,1988-04-01T00:00:00,Clippers
+201567,Kevin Love,Forward-Center,6-8,251,1988-09-07T00:00:00,Jazz
+200768,Kyle Lowry,Guard,6-0,196,1986-03-25T00:00:00,76ers
+1641754,Seth Lundy,Guard-Forward,6-4,220,2000-04-02T00:00:00,Clippers
+1626168,Trey Lyles,Forward,6-9,234,1995-11-05T00:00:00,Kings
+1630572,Sandro Mamukelashvili,Forward-Center,6-9,240,1999-05-23T00:00:00,Raptors
+1629611,Terance Mann,Guard-Forward,6-5,215,1996-10-18T00:00:00,Nets
+1630544,Tre Mann,Guard,6-3,178,2001-02-03T00:00:00,Hornets
+1628374,Lauri Markkanen,Forward-Center,7-0,240,1997-05-22T00:00:00,Jazz
+1630230,Naji Marshall,Forward,6-6,220,1998-01-24T00:00:00,Mavericks
+1628997,Caleb Martin,Forward,6-5,205,1995-09-28T00:00:00,Mavericks
+1628998,Cody Martin,Forward,6-6,205,1995-09-28T00:00:00,Suns
+1641798,Jaylen Martin,Guard,6-6,216,2004-01-28T00:00:00,Wizards
+1630231,KJ Martin,Forward,6-6,215,2001-01-06T00:00:00,Jazz
+1631213,Tyrese Martin,Forward,6-6,215,1999-03-07T00:00:00,Nets
+1629726,Garrison Mathews,Guard,6-6,215,1996-10-24T00:00:00,Hawks
+1631097,Bennedict Mathurin,Guard-Forward,6-5,210,2002-06-19T00:00:00,Pacers
+1631255,Karlo Matković,Forward-Center,6-10,231,2001-03-30T00:00:00,Pelicans
+1630178,Tyrese Maxey,Guard,6-2,200,2000-11-04T00:00:00,76ers
+1630540,Miles McBride,Guard,6-1,195,2000-09-08T00:00:00,Knicks
+1642272,Jared McCain,Guard,6-3,195,2004-02-20T00:00:00,76ers
+1630644,Mac McClung,Guard,6-2,185,1999-01-06T00:00:00,Magic
+203468,CJ McCollum,Guard,6-3,190,1991-09-19T00:00:00,Wizards
+204456,T.J. McConnell,Guard,6-1,190,1992-03-25T00:00:00,Pacers
+1641755,Kevin McCullar Jr.,Guard,6-6,210,2001-03-15T00:00:00,Knicks
+1630183,Jaden McDaniels,Forward,6-9,185,2000-09-29T00:00:00,Timberwolves
+1629667,Jalen McDaniels,Forward,6-9,190,1998-01-31T00:00:00,
+203926,Doug McDermott,Forward,6-6,225,1992-01-03T00:00:00,Kings
+1631121,Bryce McGowens,Guard,6-6,190,2002-11-08T00:00:00,Pelicans
+1629162,Jordan McLaughlin,Guard,6-0,185,1996-04-09T00:00:00,Spurs
+1629098,Jack McVeigh,Guard-Forward,6-8,215,1996-06-27T00:00:00,Rockets
+1629001,De'Anthony Melton,Guard,6-3,200,1998-05-28T00:00:00,Nets
+1630241,Sam Merrill,Guard,6-4,205,1996-05-15T00:00:00,Cavaliers
+203995,Vasilije Micic,Guard,6-3,188,1994-01-13T00:00:00,Suns
+203114,Khris Middleton,Forward,6-7,222,1991-08-12T00:00:00,Wizards
+1641706,Brandon Miller,Forward,6-7,200,2002-11-22T00:00:00,Hornets
+1641801,Emanuel Miller,Forward,6-7,215,2000-06-19T00:00:00,Bulls
+1641757,Jordan Miller,Guard,6-5,194,2000-01-23T00:00:00,Clippers
+1631159,Leonard Miller,Forward,6-10,220,2003-11-26T00:00:00,Timberwolves
+201988,Patty Mills,Guard,6-2,180,1988-08-11T00:00:00,Clippers
+1629003,Shake Milton,Guard,6-5,205,1996-09-26T00:00:00,Lakers
+1631303,Justin Minaya,Forward,6-5,205,1999-03-26T00:00:00,Trail Blazers
+1642434,Riley Minix,Forward,6-7,230,2000-09-22T00:00:00,Spurs
+1631169,Josh Minott,Forward,6-8,205,2002-11-25T00:00:00,Celtics
+1642274,Yves Missi,Center,6-11,235,2004-05-14T00:00:00,Pelicans
+1642349,Ajay Mitchell,Guard,6-5,190,2002-06-25T00:00:00,Thunder
+1630558,Davion Mitchell,Guard,6-0,202,1998-09-05T00:00:00,Heat
+1628378,Donovan Mitchell,Guard,6-3,215,1996-09-07T00:00:00,Cavaliers
+1630596,Evan Mobley,Center,6-11,215,2001-06-18T00:00:00,Cavaliers
+1642367,Jonathan Mogbo,Forward,6-9,225,2001-10-29T00:00:00,Raptors
+1628370,Malik Monk,Guard,6-3,200,1998-02-04T00:00:00,Kings
+1630541,Moses Moody,Guard,6-5,211,2002-05-31T00:00:00,Warriors
+1631386,Tazé Moore,Guard,6-5,195,1998-06-29T00:00:00,
+1631111,Wendell Moore Jr.,Guard,6-5,215,2001-09-18T00:00:00,Hornets
+1629630,Ja Morant,Guard,6-2,174,1999-08-10T00:00:00,Grizzlies
+202693,Markieff Morris,Forward,6-9,245,1989-09-02T00:00:00,Lakers
+1628420,Monté Morris,Guard,6-2,183,1995-06-27T00:00:00,Suns
+1630530,Trey Murphy III,Forward,6-8,206,2000-06-18T00:00:00,Pelicans
+1627749,Dejounte Murray,Guard,6-4,180,1996-09-19T00:00:00,Pelicans
+1627750,Jamal Murray,Guard,6-4,215,1997-02-23T00:00:00,Nuggets
+1631099,Keegan Murray,Forward,6-8,225,2000-08-19T00:00:00,Kings
+1631200,Kris Murray,Forward,6-8,216,2000-08-19T00:00:00,Trail Blazers
+1629004,Svi Mykhailiuk,Guard-Forward,6-7,205,1997-06-10T00:00:00,Jazz
+1631250,Pete Nance,Forward,6-10,225,2000-02-19T00:00:00,Bucks
+1626204,Larry Nance Jr.,Forward-Center,6-8,245,1993-01-01T00:00:00,Cavaliers
+1629614,Andrew Nembhard,Guard-Forward,6-4,191,2000-01-16T00:00:00,Pacers
+1630174,Aaron Nesmith,Guard-Forward,6-6,215,1999-10-16T00:00:00,Pacers
+1641803,Tristen Newton,Guard,6-5,190,2001-04-26T00:00:00,Timberwolves
+1627777,Georges Niang,Forward,6-7,230,1993-06-17T00:00:00,Jazz
+1630227,Daishen Nix,Guard,6-4,238,2002-02-13T00:00:00,
+1630192,Zeke Nnaji,Forward-Center,6-9,240,2001-01-09T00:00:00,Nuggets
+1641936,Miles Norris,Forward,6-7,220,2000-04-15T00:00:00,Celtics
+1629669,Jaylen Nowell,Guard,6-4,201,1999-07-09T00:00:00,
+203994,Jusuf Nurkić,Center,7-0,290,1994-08-23T00:00:00,Jazz
+1626220,Royce O'Neale,Forward,6-6,226,1993-06-05T00:00:00,Suns
+1626143,Jahlil Okafor,Center-Forward,6-10,270,1995-12-15T00:00:00,
+1629643,Chuma Okeke,Forward,6-7,229,1998-08-18T00:00:00,Cavaliers
+1629006,Josh Okogie,Guard,6-4,213,1998-09-01T00:00:00,Rockets
+1630168,Onyeka Okongwu,Forward-Center,6-10,240,2000-12-11T00:00:00,Hawks
+1630171,Isaac Okoro,Forward-Guard,6-5,225,2001-01-26T00:00:00,Bulls
+1642439,Quincy Olivari,Guard,6-3,200,2001-05-27T00:00:00,
+203482,Kelly Olynyk,Forward-Center,6-11,240,1991-04-19T00:00:00,Spurs
+1626162,Kelly Oubre Jr.,Forward-Guard,6-8,203,1995-12-09T00:00:00,76ers
+101108,Chris Paul,Guard,6-0,175,1985-05-06T00:00:00,Clippers
+1626166,Cameron Payne,Guard,6-3,183,1994-08-08T00:00:00,Knicks
+203901,Elfrid Payton,Guard,6-3,195,1994-02-22T00:00:00,Pelicans
+1627780,Gary Payton II,Guard,6-2,195,1992-12-01T00:00:00,Warriors
+1641809,Drew Peterson,Forward,6-9,205,1999-11-09T00:00:00,Hornets
+1641763,Julian Phillips,Forward,6-8,198,2003-11-05T00:00:00,Bulls
+1629618,Jalen Pickett,Guard,6-2,202,1999-10-22T00:00:00,Nuggets
+1630590,Scotty Pippen Jr.,Guard,6-1,170,2000-11-10T00:00:00,Grizzlies
+1631342,Daeqwon Plowden,Guard-Forward,6-6,216,1998-08-29T00:00:00,Kings
+203486,Mason Plumlee,Forward-Center,6-10,254,1990-03-05T00:00:00,Hornets
+1641764,Brandin Podziemski,Guard,6-4,205,2003-02-25T00:00:00,Warriors
+1627751,Jakob Poeltl,Center,7-0,260,1995-10-15T00:00:00,Raptors
+1629673,Jordan Poole,Guard,6-4,194,1999-06-19T00:00:00,Pelicans
+1641854,Craig Porter Jr.,Guard,6-1,180,2000-02-26T00:00:00,Cavaliers
+1629645,Kevin Porter Jr.,Guard-Forward,6-4,203,2000-05-04T00:00:00,Bucks
+1629008,Michael Porter Jr.,Forward,6-10,218,1998-06-29T00:00:00,Nets
+1626171,Bobby Portis,Forward,6-10,250,1995-02-10T00:00:00,Bucks
+204001,Kristaps Porziņģis,Forward-Center,7-2,240,1995-08-02T00:00:00,Hawks
+1642366,Quinten Post,Center,7-0,238,2000-03-21T00:00:00,Warriors
+1630695,Micah Potter,Center,6-9,248,1998-04-06T00:00:00,Spurs
+203939,Dwight Powell,Forward-Center,6-10,240,1991-07-20T00:00:00,Mavericks
+1626181,Norman Powell,Guard,6-4,215,1993-05-25T00:00:00,Heat
+1627752,Taurean Prince,Forward,6-6,218,1994-03-22T00:00:00,Bucks
+1630202,Payton Pritchard,Guard,6-1,195,1998-01-28T00:00:00,Celtics
+1641765,Olivier-Maxence Prosper,Forward,6-7,230,2002-07-03T00:00:00,Mavericks
+1642389,Zyon Pullin,Guard,6-4,206,2001-03-03T00:00:00,Grizzlies
+1630243,Trevelin Queen,Guard,6-5,190,1997-02-25T00:00:00,Magic
+1629674,Neemias Queta,Center,7-0,248,1999-07-13T00:00:00,Celtics
+1630193,Immanuel Quickley,Guard,6-2,190,1999-06-17T00:00:00,Raptors
+1631311,Lester Quinones,Guard,6-4,208,2000-11-16T00:00:00,Pelicans
+203944,Julius Randle,Forward-Center,6-9,250,1994-11-29T00:00:00,Timberwolves
+1641871,Duop Reath,Center,6-9,245,1996-06-26T00:00:00,Trail Blazers
+1630559,Austin Reaves,Guard,6-5,197,1998-05-29T00:00:00,Lakers
+1629629,Cam Reddish,Forward-Guard,6-7,217,1999-09-01T00:00:00,
+1630194,Paul Reed,Forward,6-9,210,1999-06-14T00:00:00,Pistons
+1642024,Alex Reese,Forward-Center,6-9,245,1999-05-21T00:00:00,76ers
+1641810,Antonio Reeves,Guard,6-5,205,2000-11-20T00:00:00,Hornets
+1629675,Naz Reid,Center-Forward,6-9,264,1999-08-26T00:00:00,Timberwolves
+1631197,Jared Rhoden,Guard,6-5,210,1999-08-27T00:00:00,Raptors
+1630208,Nick Richards,Center,7-0,245,1997-11-29T00:00:00,Suns
+1626196,Josh Richardson,Guard,6-5,200,1993-09-15T00:00:00,
+1642258,Zaccharie Risacher,Forward,6-8,200,2005-04-08T00:00:00,Hawks
+1641857,Liam Robbins,Center,7-0,250,1999-07-12T00:00:00,
+1629130,Duncan Robinson,Forward,6-7,215,1994-04-22T00:00:00,Pistons
+1629011,Mitchell Robinson,Center-Forward,7-0,240,1998-04-01T00:00:00,Knicks
+1631115,Orlando Robinson,Center,6-10,235,2000-07-10T00:00:00,Magic
+1630526,Jeremiah Robinson-Earl,Forward,6-8,240,2000-11-03T00:00:00,Pelicans
+1631223,David Roddy,Forward,6-4,255,2001-03-27T00:00:00,Raptors
+1631157,Ryan Rollins,Guard,6-3,180,2002-07-03T00:00:00,Bucks
+1642050,Jackson Rowe,Forward,6-7,210,1997-01-04T00:00:00,Warriors
+1626179,Terry Rozier,Guard,6-1,190,1994-03-17T00:00:00,Heat
+1641712,Rayan Rupert,Guard-Forward,6-6,195,2004-05-31T00:00:00,Trail Blazers
+1626156,D'Angelo Russell,Guard,6-3,193,1996-02-23T00:00:00,Mavericks
+1630346,Matt Ryan,Forward,6-6,215,1997-04-17T00:00:00,
+1627734,Domantas Sabonis,Forward-Center,6-10,240,1996-05-03T00:00:00,Kings
+1642275,Tidjane Salaün,Forward,6-8,207,2005-08-10T00:00:00,Hornets
+1641766,Adama Sanogo,Forward,6-9,245,2002-02-12T00:00:00,
+1630611,Gui Santos,Forward,6-6,185,2002-06-22T00:00:00,Warriors
+1642259,Alex Sarr,Center,7-0,205,2005-04-26T00:00:00,Wizards
+1631204,Marcus Sasser,Guard,6-2,195,2000-09-21T00:00:00,Pistons
+1631248,Baylor Scheierman,Guard,6-6,205,2000-09-26T00:00:00,Celtics
+203471,Dennis Schröder,Guard,6-1,175,1993-09-15T00:00:00,Kings
+1630578,Alperen Sengun,Center,6-11,243,2002-07-25T00:00:00,Rockets
+1641729,Brice Sensabaugh,Forward,6-5,235,2003-10-30T00:00:00,Jazz
+1629012,Collin Sexton,Guard,6-3,190,1999-01-04T00:00:00,Hornets
+1629013,Landry Shamet,Guard,6-4,190,1997-03-13T00:00:00,Knicks
+1630545,Terrence Shannon Jr.,Guard-Forward,6-6,215,2000-07-30T00:00:00,Timberwolves
+1630549,Day'Ron Sharpe,Center,6-9,265,2001-11-06T00:00:00,Nets
+1631101,Shaedon Sharpe,Guard,6-5,208,2003-05-30T00:00:00,Trail Blazers
+1642347,Jamal Shead,Guard,6-1,200,2002-07-24T00:00:00,Raptors
+1641767,Ben Sheppard,Guard,6-6,190,2001-07-16T00:00:00,Pacers
+1642263,Reed Sheppard,Guard,6-2,185,2004-06-24T00:00:00,Rockets
+1627783,Pascal Siakam,Forward,6-8,245,1994-04-02T00:00:00,Pacers
+1627732,Ben Simmons,Guard-Forward,6-10,240,1996-07-20T00:00:00,Clippers
+1629014,Anfernee Simons,Guard,6-3,200,1999-06-08T00:00:00,Celtics
+1642354,KJ Simpson,Guard,6-0,189,2002-08-08T00:00:00,Hornets
+1630579,Jericho Sims,Center,6-10,250,1998-10-20T00:00:00,Bucks
+203935,Marcus Smart,Guard,6-3,220,1994-03-06T00:00:00,Lakers
+1630696,Dru Smith,Guard,6-2,203,1997-12-30T00:00:00,Heat
+1630188,Jalen Smith,Forward-Center,6-9,215,2000-03-16T00:00:00,Bulls
+1642449,Tolu Smith,Forward,6-11,,2000-07-26T00:00:00,Pistons
+1641890,Tyler Smith,Forward,6-9,224,2004-11-02T00:00:00,Bucks
+1631095,Jabari Smith Jr.,Forward,6-10,220,2003-05-13T00:00:00,Rockets
+1641733,Nick Smith Jr.,Guard,6-2,185,2004-04-18T00:00:00,Hornets
+1631110,Jeremy Sochan,Forward,6-8,230,2003-05-20T00:00:00,Spurs
+1642285,Cam Spencer,Guard,6-4,205,2000-04-06T00:00:00,Grizzlies
+1630311,Pat Spencer,Guard,6-3,205,1996-07-04T00:00:00,Warriors
+1630531,Jaden Springer,Guard,6-4,202,2002-09-25T00:00:00,Pelicans
+1641815,Isaiah Stevens,Guard,6-0,185,2000-11-01T00:00:00,Kings
+1630205,Lamar Stevens,Forward,6-7,230,1997-07-09T00:00:00,Grizzlies
+1630191,Isaiah Stewart,Forward-Center,6-8,250,2001-05-22T00:00:00,Pistons
+1631124,Julian Strawther,Guard,6-6,205,2002-04-18T00:00:00,Nuggets
+1629622,Max Strus,Guard-Forward,6-5,215,1996-03-28T00:00:00,Cavaliers
+1630591,Jalen Suggs,Guard,6-5,205,2001-06-03T00:00:00,Magic
+1631306,Cole Swider,Forward,6-8,220,1999-05-08T00:00:00,
+1630256,Jae'Sean Tate,Forward,6-4,230,1995-10-28T00:00:00,Rockets
+1628369,Jayson Tatum,Forward-Guard,6-8,210,1998-03-03T00:00:00,Celtics
+1630678,Terry Taylor,Forward,6-4,230,1999-09-23T00:00:00,
+202066,Garrett Temple,Guard-Forward,6-5,195,1986-05-08T00:00:00,Raptors
+1631207,Dalen Terry,Forward,6-7,195,2002-07-12T00:00:00,Bulls
+1628464,Daniel Theis,Forward-Center,6-8,245,1992-04-04T00:00:00,
+1630560,Cam Thomas,Guard,6-3,210,2001-10-13T00:00:00,Nets
+1641708,Amen Thompson,Guard-Forward,6-7,200,2003-01-30T00:00:00,Rockets
+1641709,Ausar Thompson,Guard-Forward,6-6,205,2003-01-30T00:00:00,Pistons
+1630679,Ethan Thompson,Guard,6-5,195,1999-05-04T00:00:00,Magic
+202691,Klay Thompson,Guard,6-5,220,1990-02-08T00:00:00,Mavericks
+202684,Tristan Thompson,Center-Forward,6-9,254,1991-03-13T00:00:00,Cavaliers
+1630550,JT Thor,Forward,6-9,203,2002-08-26T00:00:00,Wizards
+1629680,Matisse Thybulle,Guard-Forward,6-5,201,1997-03-04T00:00:00,Trail Blazers
+1630214,Xavier Tillman,Forward,6-7,245,1999-01-12T00:00:00,Celtics
+1631166,Drew Timme,Forward,6-10,235,2000-09-09T00:00:00,Nets
+1641772,Nae'Qwan Tomlin,Forward,6-10,210,2000-12-19T00:00:00,Cavaliers
+1642260,Nikola Topić,Guard,6-6,200,2005-08-10T00:00:00,Thunder
+1631210,Jacob Toppin,Forward,6-8,200,2000-05-08T00:00:00,Hawks
+1630167,Obi Toppin,Forward,6-9,220,1998-03-04T00:00:00,Pacers
+1626157,Karl-Anthony Towns,Center-Forward,7-0,248,1995-11-15T00:00:00,Knicks
+1642422,Armel Traoré,Forward,6-9,245,2003-01-23T00:00:00,
+1631247,Luke Travers,Forward,6-7,207,2001-09-03T00:00:00,Cavaliers
+1629018,Gary Trent Jr.,Guard,6-5,204,1999-01-18T00:00:00,Bucks
+1631131,Oscar Tshiebwe,Forward-Center,6-8,255,1999-11-27T00:00:00,Jazz
+200782,P.J. Tucker,Forward,6-5,245,1985-05-05T00:00:00,Knicks
+1626167,Myles Turner,Center-Forward,6-11,250,1996-03-24T00:00:00,Bucks
+1641816,Hunter Tyson,Forward,6-8,215,2000-06-13T00:00:00,Nuggets
+1642281,Jaylon Tyson,Guard-Forward,6-6,215,2002-12-02T00:00:00,Cavaliers
+1630649,Stanley Umude,Guard,6-6,210,1999-04-12T00:00:00,Bucks
+202685,Jonas Valančiūnas,Center,6-11,265,1992-05-06T00:00:00,Nuggets
+1627832,Fred VanVleet,Guard,6-0,197,1994-02-25T00:00:00,Rockets
+1629020,Jarred Vanderbilt,Forward,6-8,214,1999-04-03T00:00:00,Lakers
+1630170,Devin Vassell,Guard-Forward,6-5,200,2000-08-23T00:00:00,Spurs
+1629216,Gabe Vincent,Guard,6-2,200,1996-06-14T00:00:00,Lakers
+1641774,Tristan Vukcevic,Forward,7-0,220,2003-03-11T00:00:00,Wizards
+202696,Nikola Vučević,Center,6-10,260,1990-10-24T00:00:00,Bulls
+1629731,Dean Wade,Forward-Center,6-9,228,1996-11-20T00:00:00,Cavaliers
+1630532,Franz Wagner,Forward,6-10,220,2001-08-27T00:00:00,Magic
+1629021,Moritz Wagner,Forward-Center,6-11,245,1997-04-26T00:00:00,Magic
+1631133,Jabari Walker,Forward,6-7,237,2002-07-30T00:00:00,76ers
+1641716,Jarace Walker,Forward,6-7,235,2003-09-04T00:00:00,Pacers
+1629022,Lonnie Walker IV,Guard-Forward,6-4,204,1998-12-14T00:00:00,76ers
+1641717,Cason Wallace,Guard,6-3,195,2003-11-07T00:00:00,Thunder
+1630811,Keaton Wallace,Guard,6-3,185,1999-02-26T00:00:00,Hawks
+1641775,Jordan Walsh,Guard,6-6,205,2004-03-03T00:00:00,Celtics
+1642266,Ja'Kobe Walter,Guard,6-5,180,2004-09-04T00:00:00,Raptors
+1642276,Kel'el Ware,Center,7-0,230,2004-04-20T00:00:00,Heat
+1629023,P.J. Washington,Forward,6-6,230,1998-08-23T00:00:00,Mavericks
+1631102,TyTy Washington Jr.,Guard,6-3,195,2001-11-15T00:00:00,Suns
+1630322,Lindy Waters III,Forward,6-6,210,1997-07-28T00:00:00,Spurs
+1630570,Trendon Watford,Guard-Forward,6-8,237,2000-11-09T00:00:00,76ers
+1641817,Anton Watson,Forward,6-8,225,2000-10-06T00:00:00,Knicks
+1631212,Peyton Watson,Guard,6-7,200,2002-09-11T00:00:00,Nuggets
+1642377,Jaylen Wells,Forward,6-8,,2003-08-26T00:00:00,Grizzlies
+1641705,Victor Wembanyama,Forward-Center,7-3,235,2004-01-04T00:00:00,Spurs
+1631104,Blake Wesley,Guard,6-3,185,2003-03-16T00:00:00,Trail Blazers
+201566,Russell Westbrook,Guard,6-4,200,1988-11-12T00:00:00,Nuggets
+1630762,Phillip Wheeler,Forward,6-8,185,2002-04-23T00:00:00,
+1629632,Coby White,Guard,6-5,195,2000-02-16T00:00:00,Bulls
+1628401,Derrick White,Guard,6-4,190,1994-07-02T00:00:00,Celtics
+1641727,Dariq Whitehead,Guard-Forward,6-6,220,2004-08-01T00:00:00,Nets
+1641715,Cam Whitmore,Forward,6-7,230,2004-07-08T00:00:00,Wizards
+1630598,Aaron Wiggins,Guard,6-5,190,1999-01-02T00:00:00,Thunder
+203952,Andrew Wiggins,Forward,6-7,197,1995-02-23T00:00:00,Heat
+1631214,Alondes Williams,Guard,6-4,210,1999-06-19T00:00:00,
+1630314,Brandon Williams,Guard,6-1,190,1999-11-22T00:00:00,Mavericks
+1642262,Cody Williams,Forward,6-7,190,2004-11-20T00:00:00,Jazz
+1629684,Grant Williams,Forward,6-6,236,1998-11-30T00:00:00,Hornets
+1631114,Jalen Williams,Guard-Forward,6-5,211,2001-04-14T00:00:00,Thunder
+1631119,Jaylin Williams,Forward,6-9,240,2002-06-29T00:00:00,Thunder
+1629026,Kenrich Williams,Guard-Forward,6-6,210,1994-12-02T00:00:00,Thunder
+1631109,Mark Williams,Center,7-0,240,2001-12-16T00:00:00,Suns
+1631466,Nate Williams,Guard,6-5,205,1999-02-12T00:00:00,Rockets
+1630172,Patrick Williams,Forward,6-7,215,2001-08-26T00:00:00,Bulls
+1630533,Ziaire Williams,Forward,6-9,185,2001-09-12T00:00:00,Nets
+1629057,Robert Williams III,Center-Forward,6-9,249,1997-10-17T00:00:00,Trail Blazers
+1631246,Vince Williams Jr.,Guard,6-4,205,2000-08-30T00:00:00,Grizzlies
+1629627,Zion Williamson,Forward,6-6,284,2000-07-06T00:00:00,Pelicans
+1630592,Jalen Wilson,Forward,6-6,220,2000-11-04T00:00:00,Nets
+1630164,James Wiseman,Center,6-11,240,2001-03-31T00:00:00,Pacers
+1631209,Isaiah Wong,Guard,6-3,185,2001-01-28T00:00:00,
+1626153,Delon Wright,Guard,6-5,185,1992-04-26T00:00:00,Knicks
+1627824,Guerschon Yabusele,Forward,6-8,265,1995-12-17T00:00:00,Knicks
+1642385,Cui Yongxi,Forward,6-5,190,2003-05-28T00:00:00,
+1642443,Jahmir Young,Guard,6-1,185,2000-10-07T00:00:00,Bulls
+1629027,Trae Young,Guard,6-1,164,1998-09-19T00:00:00,Hawks
+1627826,Ivica Zubac,Center,7-0,240,1997-03-18T00:00:00,Clippers
+1641783,Tristan da Silva,Forward,6-8,217,2001-05-15T00:00:00,Magic
+1628427,Vlatko Čančar,Forward,6-8,236,1997-04-10T00:00:00,Nuggets
+203967,Dario Šarić,Forward-Center,6-10,225,1994-04-08T00:00:00,Kings
